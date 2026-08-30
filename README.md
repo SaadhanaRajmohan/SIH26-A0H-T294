@@ -5,14 +5,14 @@
   <img src="assets/images/header.png" width=921 />
 </p>
 
-## SIH26-A0H-TXXX
+## SIH26-A0H-T294
 ### Team Details
-#### **Team Name** <<Insert Your Team Name>> <br/>
+#### **Team Name** <<QBic Innovators>> <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
+|   Team Leader   |SAADHANA RAJMOHAN       CB.EN.U4MEE25144        FEMALE       |     Btech MECHANICAL                   |                 |                                 |  
+|    Member 2     |VENKATANATHAN KRISHNAKUMAR                      |                        |                 |                                 |  
 |    Member 3     |                         |                        |                 |                                 |  
 |    Member 4     |                         |                        |                 |                                 |   
 |    Member 5     |                         |                        |                 |                                 |  
