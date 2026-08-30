@@ -15,7 +15,7 @@
 |    Member 2     |VENKATANATHAN KRISHNAKUMAR|CB.EN.U4MEE25048       |MALE             |      Btech MECHANICAL           |  
 |    Member 3     |NAREN SAKTI M            |CB.EN.U4MEE25136        |    MALE         |               Btech MECHANICAL                  |  
 |    Member 4     |    DANVANTH                  |  CB.EN.U4MEE25113                    |        MALE         |           Btech MECHANICAL                      |   
-|    Member 5     |           MYTHREYAN                 |   CB.EN.U4MEE25134                    |        MALE         |           Btech MECHANICAL                      |  
+|    Member 5     |           MYTHREYEN SAKTHIVEL               |   CB.EN.U4MEE25134                    |        MALE         |           Btech MECHANICAL                      |  
 |    Member 6     |               V P THAMIZH CHELVAN          |    CB.EN.U4MEE25152                  |    MALE    |           Btech MECHANICAL                      |   
 
 #### Mentor Details
