@@ -7,7 +7,7 @@
 
 ## SIH26-A0H-T294
 ### Team Details
-#### **Team Name** <<QBic Innovators>> <br/>
+#### **Team Name** <QBic Innovators> <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
