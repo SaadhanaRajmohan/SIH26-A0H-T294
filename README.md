@@ -22,7 +22,7 @@
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       |                     |                       |                         |                          |
+| Academic       |SATISH KUMAR T|           Assistant Professor(SR.GR)            |    MECHANICAL           |           t_satishkumar@cb.amrita.edu               |
 | Industry       |                     |                       |                         |                          |
 
 -----
